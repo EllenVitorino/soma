@@ -92,19 +92,19 @@ Eficiência(p) = \frac{Speedup(p)}{p}
 
 # 7. Gráfico de Tempo de Execução
 
-![Gráfico Tempo Execução](graficos/tempo_execucao.png)
+![Gráfico Tempo Execução](tempo_execucao.png)
 
 ---
 
 # 8. Gráfico de Speedup
 
-![Gráfico Speedup](graficos/speedup.png)
+![Gráfico Speedup](speedup.png)
 
 ---
 
 # 9. Gráfico de Eficiência
 
-![Gráfico Eficiência](graficos/eficiencia.png)
+![Gráfico Eficiência](eficiencia.png)
 
 ---
 
